@@ -1,0 +1,72 @@
+{
+  "rifugio": [
+    {
+      "id": 1,
+      "aperto": true,
+      "nome": "Rifugio Alpe Adria",
+      "descrizione": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore sed consequuntur error repudiandae numquam deserunt quisquam repellat libero asperiores earum nam nobis, culpa ratione quam perferendis esse, cupiditate neque quas!",
+      "fotoDescrittiva": "https://media-assets.vanityfair.it/photos/61aa413eec909d089da71760/16:9/w_2580,c_limit/Rifugio-averau-estate9.jpeg",
+      "apertoDal": "dal 01/05 al 30/09",
+      "cellulare": "0437-8649932",
+      "menu": [
+        {
+          "nome": "Cjarsons alla ricotta",
+          "fotoPiatto": "https://www.triesteprima.it/~media/horizontal-hi/2201218285715/cjarsons-friulani-2-749x400-2.jpg",
+          "recensioni": ["recensione", "recensione", "recensione"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "aperto": false,
+      "nome": "Rifugio Stella Alpina",
+      "descrizione": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore sed consequuntur error repudiandae numquam deserunt quisquam repellat libero asperiores earum nam nobis, culpa ratione quam perferendis esse, cupiditate neque quas!",
+      "fotoDescrittiva": "https://www.visittrentino.info/assets-database/38000-38999/38400-38499/image-thumb__2171491__ogimages_auto_f4bdc516b1de30aa8bc0f72122144722/madonna-di-campiglio---pian-del-graffer---rifugio-graffer-al-groste_38439.jpg",
+      "apertoDal": "dal 01/06 al 15/09",
+      "cellulare": "0437-3749274",
+      "menu": [
+        {
+          "nome": "Minestra orzo",
+          "fotoPiatto": "https://blog.giallozafferano.it/valeriaciccotti/wp-content/uploads/2020/11/zuppa-di-orzo.jpg",
+          "ingredienti": ["recensione", "recensione", "recensione"]
+        },
+        {
+          "nome": "Tiramisù",
+          "fotoPiatto": "https://www.dissapore.com/wp-content/uploads/2017/08/Copertina.jpg",
+          "recensioni": ["recensione", "recensione", "recensione"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "aperto": true,
+      "nome": "Rifugio Genzianella",
+      "descrizione": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore sed consequuntur error repudiandae numquam deserunt quisquam repellat libero asperiores earum nam nobis, culpa ratione quam perferendis esse, cupiditate neque quas!",
+      "fotoDescrittiva": "https://1.bp.blogspot.com/-QjWBUgBcvOg/W2R9impvaTI/AAAAAAAACqo/Ochdnt2eaGkxjWOARfsDUcKvyD-CVdrAwCPcBGAYYCw/w1200-h630-p-k-no-nu/DSC_0137.JPG",
+      "apertoDal": "tutto l'anno",
+      "cellulare": "0437-7295723",
+      "menu": []
+    },
+    {
+      "id": 4,
+      "aperto": true,
+      "nome": "Rifugio Kaiserwerg",
+      "descrizione": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore sed consequuntur error repudiandae numquam deserunt quisquam repellat libero asperiores earum nam nobis, culpa ratione quam perferendis esse, cupiditate neque quas!",
+      "fotoDescrittiva": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RifGraffer-SO.jpg/1200px-RifGraffer-SO.jpg",
+      "apertoDal": "dal 01/06 al 31/10",
+      "cellulare": "0437-8275911",
+      "menu": [
+        {
+          "nome": "Gulash",
+          "fotoPiatto": "https://www.davidezambelli.com/wp-content/uploads/2022/01/gulash-ungherese-1300x731.jpg",
+          "recensioni": ["recensione", "recensione", "recensione"]
+        },
+        {
+          "nome": "Germknodel alla vaniglia",
+          "fotoPiatto": "https://cdn.pixabay.com/photo/2020/03/07/07/44/germknodel-4908999_1280.jpg",
+          "recensioni": ["recensione", "recensione", "recensione"]
+        }
+      ]
+    }
+  ]
+}
