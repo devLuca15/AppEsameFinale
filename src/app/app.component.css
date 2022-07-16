@@ -1,0 +1,44 @@
+:host ::ng-deep .p-card .p-card-content {
+  padding-bottom: 0;
+}
+
+:host ::ng-deep .p-card {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+:host ::ng-deep .p-ripple {
+  width: 100%;
+  margin-top: 2rem;
+}
+
+:host ::ng-deep .p-dialog {
+  max-height: 100vh;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-header {
+  padding: 0;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-content {
+  padding: 0;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-header .p-dialog-header-icon:last-child {
+  margin: 0;
+}
+
+:host ::ng-deep .p-card .p-card-body {
+  margin-top: 2rem;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-footer {
+  padding: 1rem;
+}
+
+:host ::ng-deep .p-accordion .p-accordion-content {
+  padding: 0;
+}
+
+:host ::ng-deep .accordionInfo {
+  padding: 1rem;
+}
